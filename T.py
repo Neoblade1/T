@@ -50,7 +50,7 @@ def start_cmd(msg):
 ┗❏ Owner = @NEOBLADE71 ┗❏
 
 /start - open all commands
-/bgmi - <IP> <PORT> <TIME> - Start an attack
+/maro - <IP> <PORT> <TIME> - Start an attack
 /stop - Stop ongoing attack
 /approve - Approve [user_id]
 viewusers - View all users
